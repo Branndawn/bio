@@ -1,1 +1,17 @@
-hey
+
+img {
+	width: 100%;
+	height: auto;
+}
+h1 {
+	font-family: 'Anton', sans-serif;
+	color: #FFBF00;
+}
+p {
+	font-family: 'Gloria Hallelujah', cursive;
+	color: #FFBF00;
+}
+
+body {
+	background-color: #122817;
+}
